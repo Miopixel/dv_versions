@@ -19,7 +19,7 @@
 
 dv_core         3.7.0
 dv_doorbell     1.2.1
-dv_effects      2.1.0
+dv_effects      2.2.0
 dv_friendbook   1.1.0
 dv_housing      2.3.1
 dv_pets         1.16.5
