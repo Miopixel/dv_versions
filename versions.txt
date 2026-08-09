@@ -22,6 +22,6 @@ dv_doorbell     1.2.1
 dv_effects      2.3.1
 dv_friendbook   1.1.0
 dv_housing      2.3.1
-dv_pets         1.16.5
+dv_pets         1.16.6
 dv_jobs         0.12.2
 dv_hunting      1.0.0
