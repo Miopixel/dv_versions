@@ -26,3 +26,4 @@ dv_pets             1.16.6
 dv_jobs             0.12.2
 dv_hunting          1.0.0
 dv_gang_missions    2.11.0
+dv_gang_zones       2.0.0
