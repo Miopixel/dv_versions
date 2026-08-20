@@ -33,3 +33,4 @@ dv_prison           4.0.2
 dv_weed             3.0.0
 dv_dokumente        2.0.2
 dv_antilag          2.0.7
+dv_advanced_billing 2.0.0
