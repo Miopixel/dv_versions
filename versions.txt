@@ -38,3 +38,4 @@ dv_shops            2.6.4
 dv_garage           3.0.0
 dv_namechange       2.0.0
 dv_menu             2.0.0
+dv_referral         2.0.0
