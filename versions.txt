@@ -41,3 +41,4 @@ dv_menu             2.0.0
 dv_referral         2.1.1
 dv_sperrzone        2.0.0
 dv_hookah           3.0.0
+dv_car_insurance    2.0.0
