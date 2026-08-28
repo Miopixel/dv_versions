@@ -43,4 +43,4 @@ dv_sperrzone        2.0.0
 dv_hookah           3.0.0
 dv_car_insurance    2.0.0
 dv_insurance        2.0.0
-dv_inventory        1.4.0
+dv_inventory        1.5.0
