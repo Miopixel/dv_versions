@@ -48,3 +48,4 @@ dv_ffa              2.1.0
 dv_ambulancejob     3.7.0
 dv_phone            1.10.3
 dv_camper           2.0.0
+dv_carkeys          2.0.0
