@@ -50,3 +50,4 @@ dv_phone            1.10.3
 dv_camper           2.0.0
 dv_carkeys          2.0.0
 dv_moneywash        2.0.0
+dv_banking          2.0.0
