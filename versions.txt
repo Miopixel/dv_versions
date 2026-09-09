@@ -54,3 +54,4 @@ dv_moneywash        2.0.0
 dv_banking          1.0.0
 dv_license          2.0.0
 dv_pausemenu        1.0.0
+dv_junkyard         2.0.0
