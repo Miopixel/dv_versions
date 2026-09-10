@@ -57,3 +57,4 @@ dv_pausemenu        1.0.0
 dv_junkyard         2.0.0
 dv_lifeinvader      2.0.0
 dv_revivestation    2.0.0
+dv_security         3.0.0
