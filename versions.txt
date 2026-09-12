@@ -61,3 +61,4 @@ dv_security         3.0.0
 dv_rental           2.0.0
 dv_armor            2.0.0
 dv_hud              2.0.16
+dv_lootdrop         2.0.0
