@@ -66,3 +66,4 @@ dv_chat             1.0.0
 dv_zombiezone       2.0.0
 dv_clothestore      2.0.0
 dv_loadingscreen    2.0.0
+dv_pedchanger       2.0.0
