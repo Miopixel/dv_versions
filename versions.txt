@@ -47,7 +47,7 @@ dv_insurance        2.0.0
 dv_inventory        1.7.15
 dv_ffa              2.1.5
 dv_ambulancejob     3.9.1
-dv_phone            1.10.3
+dv_phone            1.19.1
 dv_camper           2.0.0
 dv_carkeys          2.0.0
 dv_moneywash        2.0.0
