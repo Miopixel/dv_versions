@@ -69,3 +69,4 @@ dv_loadingscreen    2.0.0
 dv_pedchanger       2.0.0
 dv_weathersync      2.0.0
 dv_fishing          2.0.4
+dv_storage          2.0.0
