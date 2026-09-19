@@ -71,3 +71,5 @@ dv_weathersync      2.0.0
 dv_fishing          2.0.4
 dv_storage          2.0.0
 dv_whitelist        3.0.0
+dv_carbomb          2.0.0
+dv_halloween        1.0.0
