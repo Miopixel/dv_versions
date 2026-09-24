@@ -76,3 +76,4 @@ dv_halloween        1.0.0
 dv_sabotage         2.0.3
 dv_dmv              2.0.0
 dv_vehicleshop      2.2.3
+dv_charcreator      2.0.0
