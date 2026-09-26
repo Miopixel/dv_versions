@@ -79,3 +79,4 @@ dv_vehicleshop      2.2.3
 dv_charcreator      2.0.0
 dv_prospecting      3.0.3
 dv_fire             3.0.3
+dv_mechanic         1.0.0
