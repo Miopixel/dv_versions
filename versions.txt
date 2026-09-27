@@ -81,3 +81,4 @@ dv_prospecting      3.0.3
 dv_fire             3.0.3
 dv_mechanic         1.0.0
 dv_gungame          1.1.0
+dv_firefighter      1.0.0
