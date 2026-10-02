@@ -85,3 +85,4 @@ dv_firefighter      1.1.4
 dv_antitroll        2.0.0
 dv_farming          2.0.0
 dv_mail             3.0.0 
+dv_sickness         1.0.0
