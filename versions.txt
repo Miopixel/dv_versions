@@ -1,21 +1,4 @@
 # dv-Scripts – veröffentlichte Versionen
-#
-# Diese Datei fragt dv_core beim Serverstart ab (Config.UpdateManifest).
-# Sie enthält ausschließlich Namen und Versionsnummern – keinen Quelltext.
-#
-# Aufbau, durch Leerzeichen getrennt:
-#
-#   Name            Version   Link (optional)
-#
-# Der Link ist freiwillig. Steht er da, erscheint er im Startkasten unter der
-# Update-Zeile – sinnvoll ist die Shop- oder Changelog-Seite des Scripts.
-#
-# Ein neues Script eintragen heißt: eine Zeile anhängen, sonst nichts. Nach
-# jedem Release die Nummer hier hochsetzen – sonst melden die Server der
-# Kunden weiterhin die alte Version als aktuell.
-#
-# Zeilen mit # sind Kommentare. Ein Tippfehler betrifft nur seine eigene
-# Zeile; die übrigen Scripts prüfen unbeirrt weiter.
 
 dv_core             3.28.0
 dv_doorbell         1.3.0
