@@ -5,7 +5,7 @@ dv_doorbell         1.3.0
 dv_effects          2.3.1
 dv_friendbook       1.2.0
 dv_housing          3.0.1
-dv_pets             1.16.6
+dv_pets             1.17.0
 dv_jobs             0.13.6
 dv_hunting          1.0.1
 dv_gang_missions    2.17.0
