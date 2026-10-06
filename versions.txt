@@ -70,3 +70,4 @@ dv_farming          2.0.0
 dv_mail             3.0.0 
 dv_sickness         1.1.0
 dv_drugs            1.0.0
+dv_schlitzer        1.0.0
