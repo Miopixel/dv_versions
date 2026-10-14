@@ -69,7 +69,7 @@ dv_antitroll        2.0.0
 dv_farming          2.0.0
 dv_mail             3.0.0 
 dv_sickness         1.1.0
-dv_drugs            1.0.5
+dv_drugs            1.0.7
 dv_schlitzer        1.1.2
 dv_pumpkin          2.0.0
 dvmysql             2.14.3
