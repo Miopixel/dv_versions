@@ -72,4 +72,5 @@ dv_sickness         1.1.0
 dv_drugs            1.0.10
 dv_schlitzer        1.1.2
 dv_pumpkin          2.0.0
-dv_mysql             2.14.3
+dv_mysql            2.14.3
+dv_xmas             1.0.0
