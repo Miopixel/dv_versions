@@ -72,5 +72,5 @@ dv_vehicleshop      2.2.3
 dv_weathersync      2.1.0
 dv_weed             3.0.0
 dv_whitelist        3.0.1
-dv_xmas             1.0.1
+dv_xmas             1.1.0
 dv_zombiezone       2.0.0
